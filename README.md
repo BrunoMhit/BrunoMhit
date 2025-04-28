@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Bruno Henrique Silva Nazaré, atualemnte tenho 25 anos. Sou formado em análise e desenovlvimento de sistemas e também estou cursando Ciência da computação, atualmente no 7° semestre. Sou apaixonado por tecnologia, jogos competitivos.
+Me chamo Bruno Henrique Silva Nazaré, atualemnte tenho 25 anos. Sou formado em análise e desenvolvimento de sistemas e também estou cursando Ciência da computação, atualmente no 7° semestre. Sou apaixonado por tecnologia e jogos competitivos.
 
 <p align="left">
     <a href="https://github.com/BrunoMhit?tab=repositories&sort=stargazers">
